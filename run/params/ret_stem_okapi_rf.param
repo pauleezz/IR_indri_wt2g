@@ -1,0 +1,10 @@
+<parameters>
+   <index>index/WT2G_stem</index>
+   <count>1000</count>
+   <baseline>okapi,k1:2,b:0.75</baseline>
+   <trecFormat>true</trecFormat>
+   <queryOffset>401</queryOffset>
+   <runID>OKAPI</runID>
+   <fbDocs>10</fbDocs>
+   <fbTerms>10</fbTerms>
+</parameters>
