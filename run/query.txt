@@ -40,7 +40,7 @@
 <query>child labor</query>
 <query>Lyme disease</query>
 <query>heroic acts</query>
-<query>U.S. investment Africa</query>
+<query>US investment Africa</query>
 <query>supercritical fluid</query>
 <query>women clergy</query>
 <query>tourists violence</query>
