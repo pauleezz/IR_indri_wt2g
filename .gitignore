@@ -1,5 +1,5 @@
 indri-5.14/ 
 WT2G/
 run/index/
-.DS_Store/
-run/.DS_Store/
+.DS_Store
+run/.DS_Store
